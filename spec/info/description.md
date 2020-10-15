@@ -26,6 +26,8 @@ Before use this API you need the following prerequisites:
 * **Integrations**: to send or receive messages for desired channels you need to configure these channels on [integrations page](https://app.zenvia.com/home/credentials)
 * **API Token**: create one API token on [API console](https://app.zenvia.com/home/api)
 * **Webhook** (optional): to receive messages you need to subscribe for this events using the [subscriptions API resources](#tag/Subscriptions)
+### 2020-10-15
+* **Consumption Report** (optional): you can also access the Zenvia platform to view your [Consumption Report](https://app.zenvia.com/notifications/dashboard/api) 
 
 You can use [sandbox](#section/Getting-started-with-Sandbox) to start using and test this API immediately.
 
